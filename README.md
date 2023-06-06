@@ -30,13 +30,9 @@
 ## 💌 Como você pode falar comigo
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&&link=metal.walter@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/walterrodriguesba" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&&link=wa.me/5577981327578"/></a>
+<div dsplay="inline-block">  
+  <a href="https://www.linkedin.com/in/walterrodriguesba">
+    <img align="left" width="80px" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 </p>
