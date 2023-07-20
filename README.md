@@ -2,7 +2,7 @@
 
 > Sou bacharel em Administração de Empresas tenho MBA em Gestão de Projetos e atuo como BackEnd Developer.
 
-🔭 Recentemente desenvolvi um jogo de Xadrez (em modo console) ao qual demandei muito tempo de estudos e dedicação e o resultado ficou incrível.
+🔭 Recentemente desenvolvi um CRUD em um projeto ASPNET MVC ao qual demandei muito tempo de estudos e dedicação e o resultado ficou incrível.
 
 💬 Sou um agente transformador na era digital. Skatista desde meus 15 anos de idade e cubista (montador de cubos mágicos). Let's go!
 
